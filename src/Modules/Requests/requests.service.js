@@ -164,7 +164,3 @@ export const askJoin = asyncHandler(async (req, res, next) => {
 })
 
 // ---------------------------------------- GET REQUEST TO JOIN --------------------------------------------------
-export const getReqJoin = asyncHandler(async (req, res, next) => {
-    const 
-})
-//check if cancelSentJoin and rejectJoin are needed
